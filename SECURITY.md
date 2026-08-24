@@ -14,7 +14,7 @@
 
 ### 备选：邮件报告
 
-发送邮件至：**`security@bonc.com.cn`**
+发送邮件至：**`business@bonc.com.cn`**
 
 报告中请尽量包含：
 
