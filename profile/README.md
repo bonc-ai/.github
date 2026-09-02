@@ -15,7 +15,7 @@ Enterprise open source by BONC
 
 - 仓库：https://github.com/bonc-ai/cogseed
 - 许可：MIT
-- 版本：v0.0.5（已发布）
+- 版本：v0.7.6
 - 最新发布：https://github.com/bonc-ai/cogseed/releases
 
 ## 参与与治理
