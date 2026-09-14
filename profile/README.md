@@ -9,13 +9,13 @@ Enterprise open source by BONC
 
 ## 项目
 
-### 🔥 CogSeed — AI 开发伴侣（macOS）
+### 🔥 CogSeed — AI智能伴侣
 
-本地优先的 AI 协作桌面工作台，为开发者提供智能开发辅助。
+本地优先的 AI 协作桌面工作台，帮助用户开展任务协作，积累与复用个人认知资产。
 
 - 仓库：https://github.com/bonc-ai/cogseed
 - 许可：MIT
-- 版本：v0.7.6
+- 版本：v1.0.2
 - 最新发布：https://github.com/bonc-ai/cogseed/releases
 
 ## 参与与治理
